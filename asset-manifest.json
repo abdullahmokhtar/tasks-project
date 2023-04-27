@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/abdullahmokhtar/tasks-project.git/static/css/main.9fdcc8ec.css",
-    "main.js": "/abdullahmokhtar/tasks-project.git/static/js/main.d831455d.js",
-    "index.html": "/abdullahmokhtar/tasks-project.git/index.html",
-    "main.9fdcc8ec.css.map": "/abdullahmokhtar/tasks-project.git/static/css/main.9fdcc8ec.css.map",
-    "main.d831455d.js.map": "/abdullahmokhtar/tasks-project.git/static/js/main.d831455d.js.map"
+    "main.css": "/tasks-project.git/static/css/main.9fdcc8ec.css",
+    "main.js": "/tasks-project.git/static/js/main.d831455d.js",
+    "index.html": "/tasks-project.git/index.html",
+    "main.9fdcc8ec.css.map": "/tasks-project.git/static/css/main.9fdcc8ec.css.map",
+    "main.d831455d.js.map": "/tasks-project.git/static/js/main.d831455d.js.map"
   },
   "entrypoints": [
     "static/css/main.9fdcc8ec.css",
